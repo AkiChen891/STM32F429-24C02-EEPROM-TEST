@@ -1,0 +1,26 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\EWARM\\Project.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\EWARM\\Project.eww": {
+      "configs": {
+        "${workspaceFolder}\\EWARM\\Template_LED.ewp": "Template_LED",
+        "${workspaceFolder}\\EWARM\\Temperature_measure.ewp": "Temperature_measure",
+        "${workspaceFolder}\\EWARM\\I2C.ewp": "I2C"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\EWARM\\I2C.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "D:\\IAR Systems\\Embedded Workbench 9.2"
+  },
+  "configs": {
+    "${workspaceFolder}\\EWARM\\Template_LED.ewp": "Template_LED"
+  },
+  "project": {
+    "path": "${workspaceFolder}\\EWARM\\Template_LED.ewp"
+  }
+}

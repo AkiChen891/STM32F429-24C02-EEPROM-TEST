@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libCMSISNNSVDF.a CMakeFiles/CMSISNNSVDF.dir/arm_svdf_s8.c.obj CMakeFiles/CMSISNNSVDF.dir/arm_svdf_state_s16_s8.c.obj
+D:\mingw64\bin\ranlib.exe libCMSISNNSVDF.a

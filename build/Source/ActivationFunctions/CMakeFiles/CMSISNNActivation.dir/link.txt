@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libCMSISNNActivation.a CMakeFiles/CMSISNNActivation.dir/arm_relu6_s8.c.obj
+D:\mingw64\bin\ranlib.exe libCMSISNNActivation.a

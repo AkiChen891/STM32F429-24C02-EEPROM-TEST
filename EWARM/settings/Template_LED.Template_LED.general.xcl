@@ -1,0 +1,15 @@
+"D:\IAR Systems\Embedded Workbench 9.2\arm\bin\armPROC.dll" 
+
+"D:\IAR Systems\Embedded Workbench 9.2\arm\bin\armSTLINK.dll" 
+
+"C:\Users\heuch\Desktop\ARM\STM32\Study\Template_LED\EWARM\Template_LED\Exe\Template_LED.out" 
+
+--plugin="D:\IAR Systems\Embedded Workbench 9.2\arm\bin\armLibSupportUniversal.dll" 
+
+--device_macro="D:\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32F4xx.dmac" 
+
+--flash_loader="D:\IAR Systems\Embedded Workbench 9.2\arm/config/flashloader/ST/FlashSTM32F427xG.board" 
+
+
+
+

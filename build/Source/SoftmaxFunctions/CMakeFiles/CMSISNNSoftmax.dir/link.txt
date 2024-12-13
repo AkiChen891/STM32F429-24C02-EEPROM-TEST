@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libCMSISNNSoftmax.a CMakeFiles/CMSISNNSoftmax.dir/arm_nn_softmax_common_s8.c.obj CMakeFiles/CMSISNNSoftmax.dir/arm_softmax_s8.c.obj
+D:\mingw64\bin\ranlib.exe libCMSISNNSoftmax.a
